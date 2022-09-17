@@ -1,1 +1,6 @@
-This calculator performs arithmetic operations on numbers. This calculator can do only addition, subtraction, multiplication and division mathematical calculations.
+This calculator performs arithmetic operations on numbers. This can do only
+* **Addition**, 
+* **Subtraction**,
+* **Multiplication** and
+* **Division**
+mathematical calculations.
